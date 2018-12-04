@@ -7,8 +7,5 @@ image:
   feature: trees.jpg
 ---
 
-I am a PhD candidate at University of Michigan, Ann Arbor.
-
-#<br />
-#Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
+I am a PhD candidate at University of Michigan, Ann Arbor. My research interests focus on developing computationally efficient statistical methods for large-scale genetic studies, including ancestry-agnostic model based contamination level estimation, haplotype phasing, trans-omics data analysis oriented rapid QC pipelines, sex-chromosome haplogroup analysis as well as other population genetics related methods. More broadly, I also actively follow method development in single-cell sequencing analysis.
 
