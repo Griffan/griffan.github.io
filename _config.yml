@@ -1,7 +1,7 @@
 title:            Fan Zhang's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //griffan.github.io
+url:              griffan.github.io
 #http://localhost:5000
 #https://griffan.github.io
 disqus_shortname: griffan
@@ -10,7 +10,7 @@ disqus_shortname: griffan
 owner:
   name:           Fan Zhang
   avatar:         avatar.jpg
-  bio:            "A software engineer who happens to be interested in bioinformatics and genetics"
+  bio:            "A software engineer who is interested in bioinformatics and genetics"
   email:          fanzhang@umich.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: griffanVI
