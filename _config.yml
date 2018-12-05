@@ -1,7 +1,7 @@
 title:            Fan Zhang's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              griffan.github.io
+url:              //griffan.github.io
 #http://localhost:5000
 #https://griffan.github.io
 disqus_shortname: griffan
