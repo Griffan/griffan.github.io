@@ -4,7 +4,7 @@ title: About Me
 description: "Fan Zhang's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: mountain.png
 ---
 
 I am a PhD candidate at University of Michigan, Ann Arbor. My research interests focus on developing computationally efficient statistical methods for large-scale genetic studies.

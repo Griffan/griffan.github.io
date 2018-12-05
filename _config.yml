@@ -9,11 +9,11 @@ disqus_shortname: griffan
 # Owner/author information
 owner:
   name:           Fan Zhang
-  avatar:         
-  bio:            "My research interests focus on developing computationally efficient statistical methods for large-scale genetic studies"
+  avatar:         avatar.jpg
+  bio:            "A software engineer who happens to be interested in bioinformatics and genetics"
   email:          fanzhang@umich.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: griffan
+  #twitter: griffanVI
   linkedin: griffan
   #google_scholar: VCBBx24AAAAJ
   #google_plus: 113718226018314522413
